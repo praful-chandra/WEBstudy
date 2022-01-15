@@ -110,4 +110,17 @@ body{
     font-size: 20px;
     line-height: 26px; 
     color: #ffffff;
+    margin: 34px 0px;
+    
   }
+.heroBtn{
+    border: none;
+    outline: none;
+    background-color: #fff;
+    color: #539D98;
+    padding: 14px 36px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 5px;
+}
